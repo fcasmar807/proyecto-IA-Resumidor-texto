@@ -1,0 +1,1 @@
+gensim>=4.3.2 pytesseract docx2txt PyPDF2 nltk.
